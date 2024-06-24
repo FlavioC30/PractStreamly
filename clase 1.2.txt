@@ -1,0 +1,202 @@
+	paso 1
+		pip install streamlit
+
+		probar streamlit
+			streamlit hello
+
+
+paso 2
+	mkdir streamlit_hello
+	cd streamlit_apps
+
+paso 3
+	crear un archivo
+		hello_demo.py
+
+paso 4
+	import streamlit as st
+	st.write('Hello World')
+
+paso 5
+	import streamlit as st
+	import numpy as np
+
+	binom_dist = np.random.binomial(1, .5, 100)
+	st.write(np.mean(binom_dist))
+
+paso 5.1
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+
+	binom_dist = np.random.binomial(1, .5, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	     list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	fig, ax = plt.subplots()
+	ax = plt.hist(list_of_means)
+	st.pyplot(fig)
+
+paso 5.2
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+	binom_dist = np.random.binomial(1, .5, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	     list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	plt.hist(list_of_means)
+	st.pyplot()
+
+
+paso 5.3
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+	binom_dist = np.random.binomial(1, .5, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	     list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	plt.hist(list_of_means)
+	st.pyplot()
+	plt.hist([1,1,1,1])
+	st.pyplot()	
+
+paso 5.4
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+
+	binom_dist = np.random.binomial(1, .5, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	     list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	fig1, ax1 = plt.subplots()
+	ax1 = plt.hist(list_of_means)
+	st.pyplot(fig1)
+	fig2, ax2 = plt.subplots()
+	ax2 = plt.hist([1,1,1,1])
+	st.pyplot(fig2)
+
+paso 5.5
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+	perc_heads = st.number_input(label = 'Chance of Coins Landing on Heads',
+	min_value = 0.0, max_value = 1.0, value = .5)
+	binom_dist = np.random.binomial(1, perc_heads, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	     list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	fig, ax = plt.subplots()
+	ax = plt.hist(list_of_means, range=[0,1])
+	st.pyplot(fig)
+
+paso 5.6
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+	perc_heads = st.number_input(label='Chance of Coins Landing on Heads',
+	min_value=0.0,  max_value=1.0, value=.5)
+	graph_title = st.text_input(label='Graph Title')
+	binom_dist = np.random.binomial(1, perc_heads, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	list_of_means.append(np.random.choice(binom_dist, 100, replace=True).
+	mean())
+	fig, ax = plt.subplots()
+	plt.hist(list_of_means, range=[0,1])
+	plt.title(graph_title)
+	st.pyplot(fig)
+
+paso 5.7
+	import streamlit as st
+	import numpy as np
+	import matplotlib.pyplot as plt
+	st.title('Illustrating the Central Limit Theorem with Streamlit')
+	st.subheader('An App by Tyler Richards')
+	st.write(('This app simulates a thousand coin flips using the chance of
+	heads input below,'
+	     'and then samples with replacement from that population and plots the
+	histogram of the'
+	     ' means of the samples in order to illustrate the central limit
+	theorem!'))
+	perc_heads = st.number_input(
+	    label='Chance of Coins Landing on Heads', min_value=0.0, max_
+	value=1.0, value=.5)
+	binom_dist = np.random.binomial(1, perc_heads, 1000)
+	list_of_means = []
+	for i in range(0, 1000):
+	    list_of_means.append(np.random.choice(
+	        binom_dist, 100, replace=True).mean())
+	fig, ax = plt.subplots()
+	ax = plt.hist(list_of_means)
+	st.pyplot(fig)
+
+leer datos
+
+import streamlit as st
+import pandas as pd
+
+st.title("Palmer's Penguins") #import our data
+penguins_df = pd.read_csv('penguins.csv')
+st.write(penguins_df.head())
+
+
+Analisis Exploratorio
+
+import streamlit as st
+import pandas as pd
+import altair as alt
+import seaborn as sns
+st.title("Palmer's Penguins")
+
+st.markdown('Use this Streamlit app to make your own scatterplot about
+penguins!')
+selected_species = st.selectbox('What species would you like to
+visualize?',
+     ['Adelie', 'Gentoo', 'Chinstrap'])
+selected_x_var = st.selectbox('What do you want the x variable to be?',
+     ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_
+mass_g'])
+selected_y_var = st.selectbox('What about the y?',
+     ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_
+mass_g'])
+
+
+
+
+import streamlit as st
+import pandas as pd
+import altair as alt
+import seaborn as sns
+st.title("Palmer's Penguins")
+st.markdown('Use this Streamlit app to make your own scatterplot about
+penguins!')
+selected_species = st.selectbox('What species would you like to
+visualize?',
+
+['Adelie', 'Gentoo', 'Chinstrap'])
+selected_x_var = st.selectbox('What do you want the x variable to be?',
+     ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_
+mass_g'])
+selected_y_var = st.selectbox('What about the y?',
+     ['bill_depth_mm', 'bill_length_mm', 'flipper_length_mm', 'body_
+mass_g'])
+penguins_df = pd.read_csv('penguins.csv')
+penguins_df = penguins_df[penguins_df['species'] == selected_species]
+alt_chart = (
+    alt.Chart(penguins_df)
+    .mark_circle()
+    .encode(
+        x=selected_x_var,
+        y=selected_y_var,
+    )
+)
+st.altair_chart(alt_chart)
+
