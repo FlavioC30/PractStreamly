@@ -14,11 +14,25 @@ st.write(ventas_df.dtypes)
 
 # numero de ventas
 num_ventas = ventas_df['Cantidad'].count()
-st.write(f'Numero de ventas: {num_ventas}')
+#st.write(f'Numero de ventas: {num_ventas}')
+
+#metrics
+st.metric(label="Ventas", value="num_ventas", delta="5 %")
 
 # total de ventas
 total_ventas = ventas_df['Cantidad'].sum()
-st.write(f'Total de ventas: {total_ventas}')
+#st.write(f'Total de ventas: {total_ventas}')
+
+st.metric(label="Total Ventas", value="total_ventas", delta="$us")
+
+#promedio de ventas
+promedio_ventas = ventas_df['Cantidad'].mean()
+
+#numero de productos
+num_productos = ventas_df['Producto'].nunique()
+
+#numero de secciones
+num_secciones = ventas_df['Seccion'].munique()
 
 
 # lista de productos unicos
