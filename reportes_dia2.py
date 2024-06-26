@@ -36,8 +36,8 @@ num_secciones = ventas_df['Seccion'].nunique()
 
 col1, col2, col3 = st.columns(3)
 col1.metric("Promedio Ventas", promedio_ventas, "$us.")
-col2.metric("Num. Productos ", num_productos)
-col3.metric("Secciones", num_secciones)
+col2.metric("", num_productos, "Num. Productos ")
+col3.metric("", num_secciones, "Secciones")
 
 
 # lista de productos unicos
