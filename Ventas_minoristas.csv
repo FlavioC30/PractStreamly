@@ -1,0 +1,1001 @@
+Marca_ID,Seccion,Producto,Fecha,Total_factura,Cantidad
+D,Home,Cabbage - Red,2021-07-23,"7473,64",1
+E,Home,Wine - Zinfandel California 2002,2021-06-22,"8466,87",1
+B,Books,Filo Dough,2021-04-18,"3043,7",3
+A,Garden,"Tart Shells - Barquettes, Savory",2021-06-29,"8009,16",1
+C,Garden,Shrimp - Black Tiger 16/20,2021-10-20,"6577,61",3
+E,Sports,Fuji Apples,2021-03-19,"6872,07",4
+C,Beauty,Squid - Tubes / Tenticles 10/20,2021-08-21,"4805,92",10
+B,Grocery,Wine - Shiraz South Eastern,2021-07-28,"1231,17",5
+B,Books,"Syrup - Monin, Irish Cream",2021-09-15,"4463,17",3
+C,Kids,Irish Cream - Butterscotch,2021-01-01,"3033,95",8
+C,Jewelry,Bagelers - Cinn / Brown Sugar,2021-12-22,"412,36",4
+E,Music,Mushroom Morel Fresh,2021-03-05,"1116,69",2
+A,Health,Olives - Kalamata,2021-02-15,"7545,66",1
+A,Toys,Fondant - Icing,2021-01-22,"6815,29",8
+C,Automotive,Sea Bass - Whole,2021-07-26,"3349,41",1
+C,Health,Beans - Yellow,2021-05-30,"8437,11",1
+B,Music,Wine - Rhine Riesling Wolf Blass,2021-07-27,"5076,47",4
+C,Garden,"Lamb - Loin, Trimmed, Boneless",2021-07-02,"4113,52",6
+D,Sports,Catfish - Fillets,2021-03-18,"2704,95",7
+D,Clothing,"Bread - Pita, Mini",2021-10-14,"3480,57",4
+C,Kids,Honey - Liquid,2021-09-01,"1922,56",4
+A,Books,Beer - Fruli,2021-09-23,"4756,47",3
+C,Beauty,"Chicken - Wings, Tip Off",2021-07-07,"6955,02",8
+C,Jewelry,Muffin - Blueberry Individual,2021-01-13,"8623,08",5
+A,Industrial,Basil - Seedlings Cookstown,2021-11-15,"736,88",7
+B,Health,Campari,2021-09-07,"1308,86",10
+C,Grocery,Gatorade - Xfactor Berry,2021-06-23,"6345,74",7
+B,Kids,Beer - Sleemans Cream Ale,2021-04-05,"5363,8",6
+C,Movies,"Nut - Hazelnut, Ground, Natural",2021-06-18,"3244,35",5
+B,Garden,Bread - Italian Roll With Herbs,2021-01-06,"2701,59",1
+C,Industrial,Cheese Cloth,2021-06-18,"2120,63",7
+C,Jewelry,Sauerkraut,2021-06-21,"2219,91",9
+B,Toys,Pasta - Ravioli,2021-04-22,"1636,95",4
+D,Electronics,"Pasta - Elbows, Macaroni, Dry",2021-05-31,"392,15",2
+E,Outdoors,Assorted Desserts,2021-02-20,"6036,74",6
+D,Outdoors,Compound - Passion Fruit,2021-05-02,"5881,77",7
+A,Tools,"Beef - Tenderlion, Center Cut",2021-08-04,"3428,35",9
+E,Outdoors,Oranges,2021-01-05,"8944,68",10
+B,Books,Raspberries - Frozen,2021-03-24,"4286,56",9
+A,Home,Cheese - Perron Cheddar,2021-05-02,"2999,42",3
+A,Garden,Tea Leaves - Oolong,2021-05-15,"6405,2",3
+C,Movies,Wine - Magnotta - Cab Franc,2021-01-20,"3509,98",9
+C,Clothing,Oil - Macadamia,2021-05-09,"1661,63",6
+C,Outdoors,"Tomatoes - Diced, Canned",2021-04-10,"6717,6",10
+C,Electronics,Straw - Regular,2021-11-21,"3981,71",5
+E,Music,Rice - Basmati,2021-10-14,"9398,74",5
+B,Health,Beer - Muskoka Cream Ale,2021-04-22,"4314,99",3
+E,Electronics,Squid U5 - Thailand,2021-07-24,"1672,14",4
+A,Grocery,Calypso - Lemonade,2021-03-03,"5685,08",7
+E,Grocery,Fond - Chocolate,2021-12-28,"3223,98",10
+C,Clothing,Pie Shells 10,2021-10-26,"7801,66",9
+B,Computers,"Lentils - Red, Dry",2021-05-19,"3632,41",9
+D,Beauty,Wine - Montecillo Rioja Crianza,2021-01-04,"4445,61",9
+D,Home,"Mushroom - Oyster, Fresh",2021-02-26,"952,89",7
+C,Books,Blouse / Shirt / Sweater,2021-04-11,"7923,71",1
+C,Computers,Wine - Delicato Merlot,2021-01-14,"6201,21",4
+D,Movies,Onions - Cippolini,2021-08-18,"3091,95",7
+E,Clothing,Wine - Savigny - Les - Beaune,2021-01-15,"9645,1",2
+C,Games,"Nut - Pine Nuts, Whole",2021-10-25,"7169,14",8
+A,Jewelry,"Veal - Tenderloin, Untrimmed",2021-01-04,"9635,24",9
+D,Sports,Sauce - Demi Glace,2021-12-25,"7685,9",8
+D,Clothing,"Nut - Hazelnut, Ground, Natural",2021-08-04,"8436,15",1
+D,Shoes,Cleaner - Pine Sol,2021-06-25,"2970,95",2
+C,Electronics,Stock - Fish,2021-06-22,"5562,82",6
+A,Music,Sauce - Salsa,2021-10-12,"704,42",6
+B,Music,Vinegar - White Wine,2021-03-14,"1749,82",4
+D,Jewelry,Hipnotiq Liquor,2021-10-15,"8027,78",9
+B,Tools,Wine - Zonnebloem Pinotage,2021-09-09,"342,91",9
+A,Electronics,"Wine - Red, Concha Y Toro",2021-09-01,"3160,21",6
+E,Clothing,Compound - Strawberry,2021-05-28,"947,27",3
+A,Outdoors,Beets - Golden,2021-01-07,"2114,9",2
+B,Music,Apricots - Dried,2021-07-10,"9309,99",6
+D,Books,"Pasta - Cannelloni, Sheets, Fresh",2021-09-14,"938,77",1
+D,Kids,Mussels - Cultivated,2021-05-30,"629,94",10
+C,Computers,English Muffin,2021-01-08,"1472,55",10
+E,Home,"Bread - Pullman, Sliced",2021-03-19,"1482,5",2
+A,Movies,"Wine - Red, Metus Rose",2021-02-24,"9998,57",2
+D,Jewelry,Lettuce - Lolla Rosa,2021-08-29,"7995,32",5
+A,Jewelry,Bread - Dark Rye,2021-04-28,"1615,2",9
+A,Toys,Tomatoes - Orange,2021-12-26,"1292,04",9
+B,Garden,Cheese - Comtomme,2021-11-09,"8156,86",6
+B,Electronics,Artichokes - Jerusalem,2021-01-30,"7341,56",7
+B,Kids,Bread - Onion Focaccia,2021-09-21,"7397,08",4
+D,Beauty,Tomatoes - Yellow Hot House,2021-09-05,"9508,45",2
+E,Games,Soup - Campbells Bean Medley,2021-07-17,"9641,47",1
+D,Toys,Wine - Placido Pinot Grigo,2021-02-12,"6954,63",2
+E,Home,"Pork - Chop, Frenched",2021-02-26,"2244,81",4
+E,Grocery,"Juice - Apple, 500 Ml",2021-03-16,"1776,38",6
+E,Jewelry,Chicken - Whole,2021-04-04,"4741,19",6
+B,Beauty,"Doilies - 12, Paper",2021-10-23,"5256,41",5
+C,Books,Puree - Strawberry,2021-07-29,"6388,36",2
+A,Grocery,Cake Slab,2021-06-15,"5534,28",2
+E,Books,Bread - 10 Grain,2021-03-12,7406,6
+C,Beauty,"Pork - Butt, Boneless",2021-06-26,6659,6
+C,Home,Bacon Strip Precooked,2021-01-02,"3144,96",1
+D,Outdoors,Water - Spring 1.5lit,2021-03-11,"3779,88",3
+B,Toys,Bag Clear 10 Lb,2021-11-25,"9439,16",5
+A,Computers,"Juice - Orange, 341 Ml",2021-02-19,"8830,54",5
+C,Beauty,Table Cloth 53x53 White,2021-08-14,"3401,08",6
+B,Clothing,Kiwi,2021-04-27,"961,98",5
+D,Jewelry,Foil - Round Foil,2021-03-12,"3904,75",6
+B,Beauty,Scrubbie - Scotchbrite Hand Pad,2021-06-25,"9871,02",4
+A,Computers,"Syrup - Golden, Lyles",2021-11-10,"9436,27",3
+D,Automotive,Pork - Sausage Casing,2021-11-30,"1265,12",5
+E,Electronics,"Asparagus - White, Fresh",2021-06-05,"841,75",3
+E,Industrial,Soup Campbells - Tomato Bisque,2021-04-26,"7768,55",7
+E,Shoes,Wine - Prosecco Valdobienne,2021-07-01,"6660,78",6
+C,Tools,Figs,2021-11-04,"2857,32",7
+E,Music,Salt - Sea,2021-10-27,"6586,96",3
+D,Music,Oil - Olive Bertolli,2021-02-07,"3811,45",5
+C,Tools,Huck Towels White,2021-02-06,"5366,39",9
+B,Computers,Veal - Leg,2021-04-06,"8467,56",8
+E,Toys,Ice Cream - Fudge Bars,2021-01-12,"8217,75",4
+C,Sports,Bread - Triangle White,2021-05-12,"3148,27",4
+E,Shoes,Sprouts - Pea,2021-05-05,"2198,18",7
+D,Clothing,Sponge Cake Mix - Vanilla,2021-05-06,"516,06",2
+E,Sports,"Pasta - Linguini, Dry",2021-02-01,"3523,76",9
+A,Sports,"Gin - Gilbeys London, Dry",2021-10-08,"1252,07",1
+C,Outdoors,Lid Tray - 12in Dome,2021-04-03,"8527,2",5
+E,Games,Crab Brie In Phyllo,2021-07-26,"8715,07",8
+B,Music,Chocolate - Chips Compound,2021-05-29,"9854,32",4
+D,Jewelry,Lamb Leg - Bone - In Nz,2021-04-22,"9604,11",8
+E,Industrial,"Pasta - Lasagna Noodle, Frozen",2021-07-11,"4220,54",10
+A,Computers,Canada Dry,2021-02-17,"4569,25",3
+D,Grocery,Cup - Paper 10oz 92959,2021-10-18,"7128,97",3
+B,Health,Gatorade - Fruit Punch,2021-08-02,"84,23",5
+C,Industrial,Creamers - 10%,2021-04-22,"8931,59",8
+D,Shoes,"Wine - White, Concha Y Toro",2021-06-08,"1813,24",8
+E,Automotive,Milk - Chocolate 250 Ml,2021-06-29,"6247,16",5
+E,Books,Mushroom - Lg - Cello,2021-08-16,"3883,48",3
+C,Electronics,"Soup - Knorr, Classic Can. Chili",2021-11-10,"321,45",1
+A,Books,Chocolate Bar - Oh Henry,2021-06-19,"8645,24",7
+B,Games,Cream Of Tartar,2021-02-06,"3298,01",5
+D,Outdoors,Anisette - Mcguiness,2021-08-29,"2600,01",1
+B,Baby,Puree - Pear,2021-05-05,7011,1
+C,Computers,"Wine - Harrow Estates, Vidal",2021-08-29,"9405,9",8
+D,Beauty,"Cheese - Romano, Grated",2021-07-16,"677,93",7
+B,Automotive,Yoplait - Strawbrasp Peac,2021-08-11,"216,22",1
+A,Home,"Wine - Red, Harrow Estates, Cab",2021-05-31,"2612,11",8
+D,Clothing,Pepper - Chilli Seeds Mild,2021-05-26,"4261,95",6
+E,Electronics,Shortbread - Cookie Crumbs,2021-01-24,"663,23",8
+E,Beauty,Cocoa Feuilletine,2021-04-12,"2201,45",6
+C,Outdoors,"Potatoes - Instant, Mashed",2021-06-08,"418,4",6
+D,Outdoors,Bay Leaf,2021-03-05,"4186,88",9
+E,Toys,"Pineapple - Canned, Rings",2021-10-22,"8004,76",8
+A,Kids,Flour - Pastry,2021-11-05,"3489,01",2
+B,Jewelry,"Vermacelli - Sprinkles, Assorted",2021-10-15,"3758,06",8
+A,Games,Compound - Pear,2021-11-19,"6134,72",10
+C,Clothing,Salmon - Canned,2021-07-10,5272,4
+E,Computers,Lettuce - Spring Mix,2021-11-02,"6682,43",8
+C,Industrial,Ostrich - Fan Fillet,2021-03-30,"6435,03",2
+D,Electronics,Oil - Olive Bertolli,2021-11-16,"1596,27",8
+A,Movies,Cleaner - Pine Sol,2021-04-28,"9511,43",3
+D,Industrial,"Beets - Candy Cane, Organic",2021-11-19,"9808,33",8
+E,Sports,Kiwi,2021-03-11,"609,57",1
+A,Sports,Soup V8 Roasted Red Pepper,2021-01-21,"2345,85",10
+A,Outdoors,Sobe - Berry Energy,2021-06-09,"7481,21",3
+C,Garden,Chives - Fresh,2021-08-12,"6197,16",1
+E,Music,Tomato - Tricolor Cherry,2021-01-26,"2687,4",4
+C,Games,Pepper - Green,2021-02-01,"7773,76",5
+B,Electronics,Wine - Fat Bastard Merlot,2021-11-02,"1625,93",9
+B,Games,Carbonated Water - Peach,2021-10-14,"4538,48",4
+D,Tools,"Cheese - Brie, Triple Creme",2021-02-07,"758,53",2
+B,Electronics,Saskatoon Berries - Frozen,2021-08-16,"6339,44",8
+C,Jewelry,Ice Cream Bar - Oreo Cone,2021-07-08,"2388,04",3
+B,Electronics,Vodka - Smirnoff,2021-03-08,"6292,49",2
+A,Shoes,Bread - French Baquette,2021-10-21,182,5
+D,Outdoors,Olive - Spread Tapenade,2021-03-07,"7675,59",7
+A,Music,"Nut - Walnut, Chopped",2021-09-17,"3064,85",3
+B,Computers,"Yogurt - Peach, 175 Gr",2021-01-10,"7136,18",5
+C,Jewelry,Rosemary - Fresh,2021-11-14,"4133,61",6
+B,Books,Bread - Ciabatta Buns,2021-03-30,"1304,81",6
+E,Outdoors,Juice - Ocean Spray Cranberry,2021-04-14,"828,66",10
+B,Jewelry,Rhubarb,2021-05-22,"4221,65",7
+B,Baby,"Pasta - Penne, Lisce, Dry",2021-02-04,"4009,96",6
+E,Shoes,Macaroons - Homestyle Two Bit,2021-02-18,"3163,62",10
+A,Beauty,Flounder - Fresh,2021-02-04,"4300,68",6
+E,Grocery,Steampan - Foil,2021-10-17,"177,85",7
+A,Electronics,Coffee - Decaffeinato Coffee,2021-03-15,"7632,15",2
+B,Kids,Ice Cream Bar - Rolo Cone,2021-08-27,"8623,73",8
+E,Health,Uniform Linen Charge,2021-06-06,"7890,08",2
+A,Industrial,Salt - Kosher,2021-03-08,"3067,29",9
+B,Sports,Flavouring - Rum,2021-05-04,"1954,37",9
+D,Grocery,Table Cloth 90x90 White,2021-05-10,"5017,35",9
+B,Tools,"Soup - Knorr, Chicken Noodle",2021-06-02,"8324,85",6
+D,Books,Grapes - Black,2021-10-12,"2212,72",1
+C,Baby,"Stock - Chicken, White",2021-08-17,"1336,02",4
+D,Movies,Wine - Sauvignon Blanc,2021-07-10,"2000,2",7
+D,Movies,Thyme - Dried,2021-07-05,"3376,23",2
+A,Toys,Table Cloth 72x144 White,2021-01-24,"9310,3",2
+D,Jewelry,Salt - Table,2021-06-09,"6140,59",9
+A,Games,Wine - Alsace Gewurztraminer,2021-04-21,"9884,22",7
+B,Outdoors,"Mustard - Dry, Powder",2021-09-02,"7168,9",1
+B,Toys,Coffee - Irish Cream,2021-02-02,"9292,18",3
+D,Movies,"Soup - Canadian Pea, Dry Mix",2021-03-15,"735,73",2
+A,Clothing,Ice Cream Bar - Hagen Daz,2021-09-18,"9834,65",6
+B,Tools,Bar Mix - Lime,2021-06-23,"2795,68",4
+B,Movies,"Pepper - Paprika, Spanish",2021-01-10,"5449,65",4
+C,Baby,Goldschalger,2021-04-01,"1379,95",2
+C,Computers,Compound - Passion Fruit,2021-04-29,"2267,26",5
+A,Jewelry,Wine - Coteaux Du Tricastin Ac,2021-11-18,"7796,73",5
+A,Sports,Soup - Base Broth Chix,2021-08-12,"5496,89",10
+D,Kids,Veal - Osso Bucco,2021-02-06,"2137,54",2
+E,Automotive,Salami - Genova,2021-06-27,"6950,25",7
+E,Books,Jicama,2021-10-01,"5976,34",7
+C,Automotive,Buttons,2021-03-24,"6534,27",10
+E,Music,Ecolab - Hand Soap Form Antibac,2021-11-22,"1583,14",3
+D,Industrial,Chervil - Fresh,2021-07-08,"3781,67",1
+E,Health,Beef - Striploin Aa,2021-06-11,"1714,91",5
+A,Clothing,Veal - Nuckle,2021-08-23,"96,34",4
+E,Music,Oil - Pumpkinseed,2021-09-06,"3098,99",6
+E,Jewelry,"Sauce - Soya, Light",2021-07-13,"2555,97",9
+B,Books,Crawfish,2021-09-21,"8757,04",8
+B,Baby,Mustard - Seed,2021-01-25,"3701,28",4
+C,Garden,"Pasta - Rotini, Colour, Dry",2021-12-14,"6320,3",10
+A,Beauty,Chips Potato Reg 43g,2021-09-29,"7517,73",4
+C,Computers,Rice - Long Grain,2021-05-24,"1930,04",10
+A,Computers,Ice Cream Bar - Oreo Cone,2021-03-08,"8284,95",3
+E,Kids,Neckerchief Blck,2021-08-16,"6096,86",3
+B,Books,Lamb - Shanks,2021-07-08,"2034,32",3
+B,Games,Beef - Bresaola,2021-12-21,"6831,4",3
+D,Outdoors,Carbonated Water - Strawberry,2021-09-25,"5730,85",10
+D,Shoes,Sprouts - Baby Pea Tendrils,2021-09-18,"197,65",8
+C,Shoes,Water - Spring 1.5lit,2021-01-08,"7701,29",1
+D,Computers,Vodka - Moskovskaya,2021-07-12,"1498,65",10
+C,Garden,Pepper - Yellow Bell,2021-01-05,"9087,89",7
+B,Sports,Calypso - Pineapple Passion,2021-11-04,"7793,18",10
+B,Kids,Eggs - Extra Large,2021-09-10,"5164,63",10
+E,Clothing,Beef - Short Ribs,2021-07-06,"7224,1",2
+B,Baby,Tea - Earl Grey,2021-09-06,"3607,22",8
+C,Music,"Soup - Campbells, Spinach Crm",2021-04-30,"7924,36",5
+E,Books,Devonshire Cream,2021-03-03,"3241,4",9
+E,Jewelry,Soy Protein,2021-03-08,"5462,55",1
+B,Books,Soupcontfoam16oz 116con,2021-03-27,"8237,57",2
+C,Toys,Pastry - Carrot Muffin - Mini,2021-08-08,"8654,06",8
+E,Sports,Cloves - Whole,2021-04-05,"5247,64",3
+D,Music,Veal - Loin,2021-06-27,"8645,61",4
+B,Health,Icecream - Dibs,2021-11-12,"8792,48",8
+C,Outdoors,Beer - True North Lager,2021-01-12,"1663,44",6
+B,Computers,Mushroom - White Button,2021-06-26,"893,52",4
+B,Toys,Salmon Atl.whole 8 - 10 Lb,2021-12-15,"5118,73",2
+C,Shoes,"Mushroom - Trumpet, Dry",2021-11-15,"697,1",9
+A,Music,Squash - Pepper,2021-02-01,"8357,86",1
+D,Games,Lettuce - Curly Endive,2021-10-02,"6697,95",10
+A,Garden,Beets - Mini Golden,2021-09-27,"1904,62",5
+D,Health,Muskox - French Rack,2021-12-29,"1139,13",6
+D,Industrial,Scallops - U - 10,2021-06-09,"291,52",4
+A,Music,Marjoram - Fresh,2021-12-01,"2201,25",1
+B,Garden,Olives - Morracan Dired,2021-02-11,"9063,17",1
+E,Grocery,"Crab - Claws, 26 - 30",2021-05-05,"8521,32",3
+B,Toys,Seedlings - Clamshell,2021-02-17,"8559,75",4
+E,Books,Ice Cream - Turtles Stick Bar,2021-11-07,"4352,71",10
+C,Garden,Bagelers - Cinn / Brown Sugar,2021-07-07,"7319,52",9
+C,Sports,Glass - Juice Clear 5oz 55005,2021-12-16,"7105,26",1
+C,Home,Chocolate - White,2021-06-04,"6089,66",5
+C,Books,Ecolab - Power Fusion,2021-02-12,"5371,44",8
+D,Industrial,Pernod,2021-06-24,"6356,68",9
+B,Electronics,Long Island Ice Tea,2021-01-08,"3422,89",2
+E,Kids,Pails With Lids,2021-09-09,"281,84",3
+C,Outdoors,Coffee Cup 12oz 5342cd,2021-07-29,"8478,33",8
+B,Automotive,Ham - Proscuitto,2021-06-18,"259,67",3
+B,Industrial,Cookie Choc,2021-07-17,"4483,67",7
+D,Tools,Crackers - Water,2021-08-11,"2521,18",4
+D,Sports,"Ham - Smoked, Bone - In",2021-06-07,"2769,39",5
+D,Books,Nutmeg - Ground,2021-11-14,"1175,2",10
+C,Clothing,Flour - Cake,2021-09-04,"4352,21",1
+A,Sports,Lid - 0090 Clear,2021-03-02,"298,04",4
+B,Jewelry,Cheese - Grie Des Champ,2021-08-15,"9335,91",4
+C,Grocery,Jolt Cola - Electric Blue,2021-09-17,"5667,37",8
+A,Computers,Wine - Ej Gallo Sierra Valley,2021-06-02,"8947,61",6
+E,Beauty,Plasticknivesblack,2021-11-30,"6677,57",2
+E,Games,Wine - Shiraz Wolf Blass Premium,2021-04-02,"8004,88",4
+D,Beauty,Veal - Inside,2021-11-28,"1428,96",1
+D,Jewelry,Sauce - Hollandaise,2021-09-28,"7124,64",2
+A,Computers,Loquat,2021-02-05,"3398,2",3
+C,Clothing,Flavouring - Orange,2021-02-08,"5306,23",4
+E,Games,Whmis Spray Bottle Graduated,2021-05-28,"8115,16",7
+E,Books,Energy Drink,2021-01-27,"185,17",6
+D,Tools,Beef - Top Butt Aaa,2021-08-24,"1095,46",9
+E,Computers,Wine - Cava Aria Estate Brut,2021-11-14,"1447,98",7
+C,Garden,Remy Red,2021-08-19,"3848,18",3
+A,Music,Table Cloth 91x91 Colour,2021-06-23,"9345,58",9
+D,Garden,Wine - Charddonnay Errazuriz,2021-07-24,"8739,79",2
+A,Games,"Mushroom - Enoki, Dry",2021-03-26,"5684,85",4
+C,Sports,Coffee - Decafenated,2021-03-06,"7596,57",9
+E,Jewelry,Chips Potato Salt Vinegar 43g,2021-01-07,"2802,51",6
+D,Shoes,Figs,2021-01-21,"8271,57",6
+A,Outdoors,Beef - Inside Round,2021-10-12,"363,12",1
+E,Games,Passion Fruit,2021-03-06,"6881,93",3
+E,Grocery,Tobasco Sauce,2021-05-12,"1031,69",2
+E,Health,Soap - Mr.clean Floor Soap,2021-12-16,"6905,45",8
+C,Computers,Corn - On The Cob,2021-08-27,"2424,61",7
+E,Clothing,Table Cloth 62x114 White,2021-04-03,"1551,49",1
+B,Outdoors,"Vermouth - White, Cinzano",2021-02-26,"2411,49",5
+E,Clothing,Wine - Cousino Macul Antiguas,2021-10-29,"5129,52",3
+B,Games,"Pork - Bacon, Sliced",2021-07-18,"6005,04",1
+E,Grocery,"Soup - Campbells, Chix Gumbo",2021-11-03,"9127,53",8
+D,Computers,Beef - Ox Tongue,2021-10-11,"6946,7",1
+E,Home,Cheese - Grie Des Champ,2021-02-26,"6489,96",3
+C,Electronics,"Stock - Beef, White",2021-03-26,"5901,95",4
+D,Games,Duck - Fat,2021-09-29,"8557,57",5
+D,Kids,"Stock - Veal, Brown",2021-05-01,"3240,28",9
+A,Health,Kiwi Gold Zespri,2021-11-23,"998,16",5
+C,Computers,Alize Red Passion,2021-02-14,"6024,52",4
+D,Home,Muffin Mix - Oatmeal,2021-11-10,"5229,83",6
+B,Automotive,Mushrooms - Honey,2021-09-16,"5104,35",2
+C,Home,Sandwich Wrap,2021-10-05,"9461,74",6
+C,Garden,Glass - Juice Clear 5oz 55005,2021-09-20,"833,39",9
+D,Music,Appetizer - Asian Shrimp Roll,2021-08-27,"2257,72",9
+A,Health,Caviar - Salmon,2021-10-06,"1022,88",3
+C,Kids,Beer - Sleemans Cream Ale,2021-07-24,"9023,82",3
+A,Music,Lychee - Canned,2021-07-24,"7363,6",2
+B,Shoes,Truffle Cups Green,2021-07-10,"1413,04",9
+E,Games,Octopus,2021-09-17,"6422,8",10
+C,Books,"Lamb - Whole Head Off,nz",2021-12-23,"1567,94",6
+B,Tools,Lid Coffee Cup 8oz Blk,2021-09-06,"844,49",8
+A,Music,Sour Cream,2021-05-20,"4474,19",7
+B,Music,Corn Meal,2021-06-07,"6119,01",3
+C,Jewelry,Herb Du Provence - Primerba,2021-08-16,"8773,46",9
+C,Automotive,Cheese - Grana Padano,2021-09-14,"4265,17",10
+C,Kids,Island Oasis - Ice Cream Mix,2021-03-30,"1401,02",1
+B,Electronics,Kahlua,2021-10-19,"8537,56",2
+C,Beauty,Scallops 60/80 Iqf,2021-07-15,"5439,54",2
+D,Jewelry,Tamarind Paste,2021-07-09,"9117,17",8
+E,Baby,"Stock - Veal, Brown",2021-01-24,"8078,49",2
+E,Baby,Wine - Ice Wine,2021-07-17,"1168,27",10
+D,Baby,Table Cloth 120 Round White,2021-08-16,"5867,5",3
+E,Baby,"Juice - Clamato, 341 Ml",2021-09-12,"822,81",3
+E,Toys,Muffin Mix - Morning Glory,2021-03-07,"251,5",10
+D,Shoes,Snapple Raspberry Tea,2021-10-28,"529,76",4
+E,Movies,Cognac - Courvaisier,2021-02-12,"282,99",4
+D,Movies,Tia Maria,2021-02-01,"7827,41",7
+D,Industrial,"Salmon - Atlantic, Fresh, Whole",2021-08-11,"7670,03",4
+C,Music,Nestea - Iced Tea,2021-04-10,"7708,35",5
+B,Clothing,"Roe - Lump Fish, Red",2021-05-12,"9507,56",9
+E,Industrial,Tomato - Tricolor Cherry,2021-12-07,"2393,56",1
+C,Electronics,Cookie Dough - Double,2021-04-21,"9537,93",2
+A,Electronics,Garam Marsala,2021-04-05,"2425,68",7
+E,Health,"Napkin - Beverge, White 2 - Ply",2021-08-10,"1160,97",7
+E,Jewelry,"Mop Head - Cotton, 24 Oz",2021-06-02,"5366,69",6
+B,Movies,Lotus Rootlets - Canned,2021-11-16,"1581,05",7
+D,Home,Greens Mustard,2021-07-03,"1355,98",1
+A,Automotive,Foam Espresso Cup Plain White,2021-12-16,"1016,05",7
+C,Games,Plate Foam Laminated 9in Blk,2021-06-16,"8476,83",4
+C,Jewelry,Passion Fruit,2021-07-02,"4285,61",6
+B,Books,Lettuce - Romaine,2021-06-07,"4280,56",1
+A,Computers,"Basil - Dry, Rubbed",2021-07-01,"6888,51",6
+D,Clothing,Table Cloth 53x69 White,2021-09-02,"4544,69",5
+E,Automotive,Egg Patty Fried,2021-08-07,"3050,14",4
+B,Home,Salmon Atl.whole 8 - 10 Lb,2021-01-20,"4517,01",6
+E,Automotive,Cheese - Mascarpone,2021-03-13,"9588,62",3
+B,Beauty,"Beans - Black Bean, Canned",2021-06-15,"1893,13",6
+B,Tools,Wine - Periguita Fonseca,2021-12-18,"8511,92",9
+C,Movies,Muffin - Blueberry Individual,2021-12-08,"5942,98",1
+C,Jewelry,Lamb - Loin Chops,2021-07-15,"4575,17",3
+A,Garden,Bananas,2021-11-03,"3126,55",5
+D,Computers,Cornstarch,2021-12-02,"1028,11",6
+B,Jewelry,Bagel - Plain,2021-12-09,"788,62",4
+D,Music,Sun - Dried Tomatoes,2021-09-30,"8893,44",5
+C,Grocery,"Wine - Red, Mouton Cadet",2021-09-23,"9855,69",7
+B,Automotive,Mikes Hard Lemonade,2021-12-09,"8581,99",9
+D,Toys,"Beef - Rib Roast, Cap On",2021-01-13,"4688,91",2
+D,Toys,Food Colouring - Orange,2021-12-13,"8702,16",1
+B,Outdoors,Saskatoon Berries - Frozen,2021-06-04,"7646,62",4
+A,Kids,Fruit Mix - Light,2021-03-01,"8256,98",5
+A,Games,Soup - Chicken And Wild Rice,2021-06-02,"4426,26",2
+B,Outdoors,Wine - Magnotta - Cab Franc,2021-06-21,"6515,82",2
+B,Jewelry,Sprouts - Corn,2021-08-21,"1099,99",3
+A,Music,Gelatine Leaves - Bulk,2021-07-30,"4661,43",9
+B,Jewelry,"Beans - Turtle, Black, Dry",2021-10-07,"9759,27",6
+B,Shoes,Bar - Sweet And Salty Chocolate,2021-09-17,"2789,68",3
+B,Computers,Chocolate Bar - Oh Henry,2021-09-12,"8135,74",7
+A,Sports,Absolut Citron,2021-08-03,"8419,87",4
+D,Industrial,"Nut - Almond, Blanched, Ground",2021-08-08,"1522,47",1
+B,Garden,Ezy Change Mophandle,2021-10-31,"2695,47",9
+C,Music,"Gin - Gilbeys London, Dry",2021-04-11,"4883,49",9
+B,Industrial,Salt - Seasoned,2021-04-25,"9866,13",5
+E,Clothing,Trueblue - Blueberry,2021-01-25,"1494,82",1
+C,Games,"Garlic - Primerba, Paste",2021-12-06,"6414,5",1
+B,Industrial,"Wine - White, Concha Y Toro",2021-09-01,"7253,22",8
+D,Garden,"Split Peas - Green, Dry",2021-11-05,"6363,8",5
+D,Sports,Juice - Lime,2021-07-24,"5206,92",5
+C,Home,"Seedlings - Buckwheat, Organic",2021-11-09,"3042,22",10
+D,Beauty,"Onions - Dried, Chopped",2021-12-14,"7318,64",5
+C,Movies,Seaweed Green Sheets,2021-10-05,"8512,86",10
+E,Industrial,"Pork - Tenderloin, Frozen",2021-06-30,"8434,35",6
+E,Health,Nectarines,2021-08-02,"520,08",3
+B,Grocery,"Carrots - Purple, Organic",2021-03-14,"301,97",4
+E,Baby,Cheese - Provolone,2021-07-18,"9955,65",3
+E,Music,Chambord Royal,2021-04-18,"350,68",5
+E,Health,Bread Bowl Plain,2021-12-20,"9095,31",4
+C,Beauty,Bread Bowl Plain,2021-12-09,"4459,46",5
+E,Music,Shrimp - Prawn,2021-09-22,"9320,03",6
+C,Kids,Sproutsmustard Cress,2021-09-04,"751,42",10
+D,Garden,Muffin Mix - Chocolate Chip,2021-09-16,"4762,66",4
+C,Outdoors,"Soup - Knorr, French Onion",2021-01-20,"6692,88",9
+A,Music,"Artichoke - Bottom, Canned",2021-04-01,"5929,18",7
+D,Baby,Jam - Raspberry,2021-09-13,"1962,77",10
+A,Toys,Cherries - Fresh,2021-04-11,"3488,27",2
+E,Electronics,Energy Drink - Franks Pineapple,2021-01-27,"7654,55",3
+C,Clothing,"Soup - Campbells, Classic Chix",2021-04-18,"5318,61",8
+B,Outdoors,Bread Country Roll,2021-05-23,"2754,58",6
+C,Automotive,Soupcontfoam16oz 116con,2021-08-03,"4297,85",2
+A,Jewelry,"Arctic Char - Fresh, Whole",2021-06-15,"8373,65",6
+B,Beauty,Muffins - Assorted,2021-02-23,"4734,11",1
+E,Beauty,V8 Splash Strawberry Banana,2021-05-30,"8050,19",6
+C,Shoes,Pear - Packum,2021-08-08,"2748,88",2
+D,Computers,Flower - Carnations,2021-10-31,"8778,85",6
+C,Music,"Veal - Tenderloin, Untrimmed",2021-05-12,"1111,32",8
+A,Industrial,Prunes - Pitted,2021-09-08,"3829,06",10
+D,Grocery,Cookies Almond Hazelnut,2021-12-15,"5188,63",10
+E,Music,"Crush - Orange, 355ml",2021-01-09,"6844,81",1
+E,Sports,"Glass - Wine, Plastic, Clear 5 Oz",2021-05-31,"7795,91",2
+A,Sports,Truffle Cups Green,2021-11-08,"9954,26",5
+C,Movies,Rappini - Andy Boy,2021-05-07,"2143,73",9
+C,Toys,Bread - Sour Sticks With Onion,2021-11-14,"3813,11",3
+A,Jewelry,"Liners - Banana, Paper",2021-01-28,"1397,48",2
+B,Health,Yeast Dry - Fermipan,2021-01-25,"1933,7",1
+A,Books,Bok Choy - Baby,2021-12-02,"9522,39",4
+C,Tools,Glass Clear 7 Oz Xl,2021-12-27,"6167,44",6
+C,Baby,"Mushroom - Shitake, Dry",2021-02-16,"3752,37",2
+E,Outdoors,Juice - Lagoon Mango,2021-05-28,"1833,86",1
+E,Garden,Venison - Striploin,2021-08-22,"1004,3",5
+A,Games,Oregano - Fresh,2021-10-09,"5867,81",6
+D,Grocery,Cheese - Swiss,2021-01-31,"8451,01",7
+E,Sports,Wine - Winzer Krems Gruner,2021-02-04,"9644,5",3
+A,Home,Tuna - Salad Premix,2021-08-24,"3851,97",8
+E,Home,Mace,2021-09-24,"8392,89",8
+E,Clothing,Broccoli - Fresh,2021-02-28,"310,41",3
+A,Kids,Wine La Vielle Ferme Cote Du,2021-03-09,"7882,12",10
+A,Sports,Toothpick Frilled,2021-12-23,"9991,35",9
+C,Outdoors,Truffle Shells - Semi - Sweet,2021-09-22,"7135,59",3
+D,Kids,Scallops - In Shell,2021-03-10,"1870,06",1
+C,Games,Dc Hikiage Hira Huba,2021-08-22,"5911,79",8
+B,Outdoors,Currants,2021-07-07,"568,1",9
+D,Clothing,Steampan - Lid For Half Size,2021-05-11,"2711,71",6
+B,Grocery,Bread - White Mini Epi,2021-03-02,"690,54",9
+D,Health,"Pepsi - Diet, 355 Ml",2021-10-15,"6125,95",9
+A,Industrial,"Tart Shells - Sweet, 3",2021-07-28,"2538,54",3
+C,Grocery,Dc - Frozen Momji,2021-07-14,"6451,57",3
+E,Automotive,Pastry - Baked Scones - Mini,2021-03-08,"48,51",4
+D,Home,Clam Nectar,2021-08-18,"1456,47",2
+B,Toys,"Wine - Red, Metus Rose",2021-08-04,"3032,4",1
+D,Computers,"Doilies - 10, Paper",2021-07-08,"7896,55",10
+A,Clothing,Water - Evian 355 Ml,2021-01-31,"6856,13",9
+A,Sports,Wine - Lou Black Shiraz,2021-02-11,"1063,63",7
+D,Music,Pastry - Cherry Danish - Mini,2021-07-11,"4220,77",6
+C,Garden,Longos - Greek Salad,2021-02-10,"190,03",4
+B,Music,Coffee Swiss Choc Almond,2021-03-06,"7511,08",3
+A,Movies,Squash - Acorn,2021-03-21,"6285,44",3
+E,Kids,"Tart Shells - Sweet, 2",2021-10-23,"810,93",1
+E,Kids,Sauce - Hoisin,2021-09-24,733,10
+A,Sports,Oil - Peanut,2021-09-04,"2703,93",10
+C,Garden,Beef - Shank,2021-08-07,"1001,55",5
+D,Industrial,"Cup - 3.5oz, Foam",2021-03-17,"9237,29",7
+D,Clothing,"Quail - Whole, Boneless",2021-01-25,"4810,9",8
+E,Outdoors,Halibut - Fletches,2021-04-28,"8558,16",8
+A,Jewelry,Plastic Arrow Stir Stick,2021-05-01,"879,17",8
+D,Kids,"Lemonade - Island Tea, 591 Ml",2021-04-25,"4297,08",8
+D,Health,Rabbit - Saddles,2021-07-07,"2376,3",2
+B,Baby,Mousse - Mango,2021-06-14,"5671,45",9
+D,Electronics,Pastry - Chocolate Chip Muffin,2021-12-15,"4396,43",10
+E,Kids,"Seedlings - Buckwheat, Organic",2021-04-12,"6740,98",2
+D,Outdoors,"Stock - Veal, Brown",2021-10-18,"9998,45",5
+A,Baby,Wine - Muscadet Sur Lie,2021-05-20,"8377,42",4
+A,Music,Flour - All Purpose,2021-07-29,"7982,21",7
+D,Grocery,Schnappes Peppermint - Walker,2021-03-25,"9988,83",9
+E,Electronics,"Soup - Cream Of Broccoli, Dry",2021-03-18,"5430,79",8
+D,Sports,Cream Of Tartar,2021-03-09,"4259,4",4
+E,Outdoors,Island Oasis - Peach Daiquiri,2021-09-13,"936,2",5
+E,Health,"Zucchini - Mini, Green",2021-12-22,"5172,37",4
+A,Outdoors,"Basil - Dry, Rubbed",2021-05-05,"6439,23",3
+A,Games,"Juice - Pineapple, 341 Ml",2021-12-15,"4226,71",7
+E,Movies,Galliano,2021-03-29,"562,86",1
+D,Grocery,Table Cloth - 53x69 Colour,2021-09-20,"5401,12",4
+A,Movies,"Tortillas - Flour, 8",2021-08-31,"438,62",10
+C,Computers,Wine - Fume Blanc Fetzer,2021-03-30,"7835,75",2
+D,Clothing,Wine La Vielle Ferme Cote Du,2021-08-25,"3389,7",3
+C,Tools,Rice - Wild,2021-05-17,"6250,58",6
+A,Kids,Wine - Riesling Alsace Ac 2001,2021-11-06,"2499,2",9
+D,Garden,Tea - Vanilla Chai,2021-02-10,"8746,57",2
+B,Clothing,Wine - Ej Gallo Sonoma,2021-01-01,"3688,3",1
+A,Automotive,Cookie Double Choco,2021-06-29,"6737,44",2
+C,Toys,"Orange - Canned, Mandarin",2021-08-04,"3267,29",9
+D,Shoes,"Apple - Delicious, Golden",2021-10-10,"311,17",10
+C,Beauty,Bulgar,2021-04-14,"2828,78",3
+C,Automotive,"Beef - Tongue, Fresh",2021-02-04,"5959,96",8
+D,Industrial,Chicken - Soup Base,2021-04-28,"7241,5",8
+A,Health,Corn Shoots,2021-12-01,"9751,63",10
+E,Toys,"Carrots - Purple, Organic",2021-07-29,"7138,76",9
+B,Tools,Straw - Regular,2021-01-22,"1500,17",1
+D,Computers,"Doilies - 10, Paper",2021-04-24,"3008,14",10
+C,Books,Veal - Knuckle,2021-07-14,"5720,44",4
+A,Computers,Liners - Baking Cups,2021-11-17,"6221,31",3
+C,Books,Meldea Green Tea Liquor,2021-05-09,"5489,86",2
+E,Music,Wine - Chablis J Moreau Et Fils,2021-02-03,"6114,65",9
+A,Automotive,Muffin Mix - Banana Nut,2021-07-15,"4569,91",8
+B,Movies,"Bread - Crumbs, Bulk",2021-07-05,"9650,59",10
+A,Toys,"Pasta - Orzo, Dry",2021-08-22,"836,81",9
+B,Toys,Cookies - Assorted,2021-03-08,"7789,75",7
+D,Tools,"Brownies - Two Bite, Chocolate",2021-01-17,"8181,97",7
+C,Industrial,Table Cloth 62x114 White,2021-08-11,"9294,32",6
+A,Tools,Blouse / Shirt / Sweater,2021-08-04,"8725,13",6
+D,Garden,Chicken - Tenderloin,2021-09-29,"482,33",6
+C,Industrial,Papadam,2021-08-24,"882,63",3
+D,Outdoors,"Thyme - Lemon, Fresh",2021-01-04,"5343,82",5
+D,Industrial,Sambuca Cream,2021-07-02,"5896,95",8
+A,Home,"Sprite, Diet - 355ml",2021-11-12,"7385,17",6
+E,Home,Ocean Spray - Ruby Red,2021-02-20,"8066,59",4
+D,Automotive,"Wine - White, Antinore Orvieto",2021-08-15,"5276,62",8
+D,Electronics,Chocolate - Sugar Free Semi Choc,2021-08-01,"5664,43",10
+A,Shoes,Wine - Cave Springs Dry Riesling,2021-08-30,"5605,64",9
+D,Automotive,Table Cloth 54x72 White,2021-04-18,"7536,89",2
+D,Home,Icecream Cone - Areo Chocolate,2021-05-05,"7635,32",9
+B,Games,Coffee - Cafe Moreno,2021-10-30,"9122,81",1
+C,Toys,Soup - Campbells Tomato Ravioli,2021-04-27,"6271,6",10
+C,Shoes,Sprouts - Onion,2021-01-20,"7196,95",4
+B,Sports,Lidsoupcont Rp12dn,2021-12-12,"2113,25",5
+A,Sports,Cheese - Parmigiano Reggiano,2021-02-08,"2532,19",1
+C,Industrial,Plastic Arrow Stir Stick,2021-10-14,"1355,26",9
+C,Outdoors,Wine - Pinot Noir Stoneleigh,2021-08-31,"2713,22",10
+D,Tools,Wine - Toasted Head,2021-03-09,"5485,86",1
+D,Movies,Beer - Sleemans Cream Ale,2021-09-10,"5632,34",5
+B,Industrial,Milk - 2% 250 Ml,2021-08-16,"33,48",3
+D,Toys,Pasta - Cheese / Spinach Bauletti,2021-03-13,"7204,21",10
+C,Beauty,Pie Shell - 9,2021-07-24,"3998,17",4
+D,Garden,Currants,2021-01-17,"450,31",3
+B,Music,"Veal - Shank, Pieces",2021-09-17,"2209,77",1
+A,Books,Mints - Striped Red,2021-06-17,"2378,4",5
+D,Industrial,"Mop Head - Cotton, 24 Oz",2021-11-22,"5289,74",2
+D,Tools,Plasticknivesblack,2021-10-10,"5910,75",3
+A,Tools,"Trout - Hot Smkd, Dbl Fillet",2021-12-25,"748,61",8
+A,Shoes,Appetiser - Bought,2021-08-17,"2510,99",8
+E,Industrial,"Water - Spring Water, 355 Ml",2021-09-13,"4326,59",6
+A,Sports,"Garlic - Primerba, Paste",2021-04-20,"6505,86",6
+E,Jewelry,Scallops - 10/20,2021-04-28,"9574,4",1
+D,Computers,Tea - Herbal I Love Lemon,2021-07-11,"6403,3",10
+D,Books,"Wine - White, Pinot Grigio",2021-12-14,"5752,51",5
+B,Electronics,Tea - Lemon Green Tea,2021-06-30,"7769,89",3
+D,Games,Island Oasis - Lemonade,2021-06-21,"9193,81",6
+A,Jewelry,Croissants Thaw And Serve,2021-06-29,"2551,59",4
+A,Clothing,Lobster - Base,2021-07-19,"199,53",8
+D,Sports,Truffle Shells - Semi - Sweet,2021-01-03,"5766,46",8
+A,Sports,Flour - Chickpea,2021-05-05,"8620,67",3
+A,Automotive,"Cheese - Brie, Cups 125g",2021-09-02,"2207,89",8
+E,Electronics,Temperature Recording Station,2021-10-24,"1234,49",8
+A,Shoes,"Wine - White, Ej",2021-08-08,"4374,33",10
+B,Clothing,Honey - Liquid,2021-01-31,"4407,1",8
+B,Books,Venison - Racks Frenched,2021-04-12,"1975,75",6
+E,Sports,Fudge - Chocolate Fudge,2021-05-15,"9854,06",5
+B,Automotive,Wine - Jaboulet Cotes Du Rhone,2021-04-04,"7003,49",1
+D,Shoes,Mints - Striped Red,2021-02-17,"8231,59",10
+B,Kids,Bagels Poppyseed,2021-10-15,"4880,16",4
+D,Beauty,Raspberries - Frozen,2021-08-31,"4417,72",2
+D,Music,Chicken - Bones,2021-07-11,"2036,4",5
+B,Automotive,Wine - Black Tower Qr,2021-04-18,"6723,24",2
+A,Health,Greens Mustard,2021-03-14,"550,33",3
+A,Toys,"Pepper - Paprika, Hungarian",2021-10-07,"4571,13",1
+C,Games,Gooseberry,2021-12-19,"2463,49",6
+A,Books,"Pasta - Rotini, Dry",2021-07-07,"7007,83",8
+D,Jewelry,Breadfruit,2021-02-22,"4523,43",4
+A,Music,Potatoes - Mini Red,2021-05-11,"7129,5",5
+A,Jewelry,Sponge Cake Mix - Chocolate,2021-05-14,"34,84",8
+D,Tools,Wine - Penfolds Koonuga Hill,2021-08-21,"8201,99",10
+B,Garden,Tomatoes - Hot House,2021-04-07,"8232,33",8
+D,Outdoors,Appetizer - Mushroom Tart,2021-03-28,"4162,9",7
+C,Music,Star Fruit,2021-06-30,"1932,47",1
+B,Computers,Muffin Batt - Choc Chk,2021-03-15,"7003,63",1
+D,Home,Table Cloth - 53x69 Colour,2021-07-09,"5846,86",5
+A,Clothing,"Lemonade - Island Tea, 591 Ml",2021-12-09,"396,87",4
+C,Tools,Veal - Striploin,2021-06-15,"933,75",10
+B,Industrial,"Pasta - Cappellini, Dry",2021-06-27,"3664,39",6
+C,Industrial,Chips Potato All Dressed - 43g,2021-05-06,"5767,34",3
+E,Beauty,Water - Evian 355 Ml,2021-05-03,"4472,11",5
+E,Jewelry,Monkfish - Fresh,2021-02-13,"6156,03",2
+E,Outdoors,Cheese - Wine,2021-02-02,"1949,79",2
+A,Games,"Beef - Tongue, Cooked",2021-01-03,"2317,62",10
+C,Kids,"Soup - Beef Conomme, Dry",2021-10-12,"6842,7",8
+D,Home,Oxtail - Cut,2021-06-18,"5644,79",6
+C,Industrial,Ice Cream Bar - Hagen Daz,2021-05-07,"4561,86",7
+A,Shoes,Liners - Baking Cups,2021-08-28,"2151,94",8
+C,Music,"Extract - Vanilla,artificial",2021-08-26,"2848,14",1
+B,Outdoors,Chinese Foods - Thick Noodles,2021-05-15,"3165,28",7
+E,Grocery,Praline Paste,2021-11-14,"2673,58",3
+E,Kids,Pastry - Chocolate Chip Muffin,2021-10-12,"1310,4",6
+A,Automotive,Sambuca - Ramazzotti,2021-09-08,"9217,83",8
+E,Baby,Cocktail Napkin Blue,2021-11-10,"4096,58",3
+C,Clothing,"Juice - Clamato, 341 Ml",2021-09-07,"1325,88",6
+D,Jewelry,Eel - Smoked,2021-04-17,"7113,91",7
+B,Sports,Longos - Grilled Veg Sandwiches,2021-05-14,"9036,32",4
+C,Books,Cake - Sheet Strawberry,2021-07-24,"1410,5",4
+C,Toys,Milk - Skim,2021-01-20,"1255,55",5
+B,Computers,Soup Knorr Chili With Beans,2021-08-10,"5535,06",5
+B,Garden,Appetizer - Assorted Box,2021-07-27,"8783,76",8
+E,Tools,Barramundi,2021-01-16,"3455,01",4
+A,Books,Lemon Tarts,2021-10-19,"1410,06",2
+E,Automotive,Grapes - Red,2021-04-26,"2971,1",2
+C,Kids,Juice - Cranberry 284ml,2021-01-16,"7347,67",10
+D,Tools,Table Cloth 72x144 White,2021-10-06,"4673,67",2
+B,Toys,Pie Filling - Cherry,2021-04-08,"2828,42",5
+E,Home,V8 Splash Strawberry Banana,2021-06-07,"6289,77",3
+A,Industrial,Pomegranates,2021-01-28,"8001,35",2
+C,Computers,Pickle - Dill,2021-04-24,"9202,58",8
+E,Baby,"Carrots - Mini, Stem On",2021-03-16,"7833,45",5
+D,Grocery,Avocado,2021-02-07,"1357,18",5
+C,Shoes,"Radish - Black, Winter, Organic",2021-02-05,"2719,07",3
+A,Games,Dried Figs,2021-06-25,"6420,89",9
+E,Shoes,Cheese - Provolone,2021-04-25,"2617,87",1
+C,Beauty,"Pail - 4l White, With Handle",2021-07-16,"9805,6",7
+E,Health,Wine - Shiraz South Eastern,2021-06-12,"79,3",4
+C,Outdoors,"Beef - Tenderlion, Center Cut",2021-11-11,"9343,39",9
+B,Baby,Trueblue - Blueberry Cranberry,2021-12-25,"4323,24",3
+D,Games,Sugar - Icing,2021-12-27,"2513,45",3
+A,Garden,Sword Pick Asst,2021-08-15,"7760,43",10
+A,Health,Pork Salted Bellies,2021-07-06,"1770,79",9
+E,Automotive,Crackers - Graham,2021-10-06,"3764,57",10
+E,Sports,Wine - Magnotta - Belpaese,2021-09-20,"355,25",9
+B,Industrial,Appetizer - Assorted Box,2021-11-12,"898,58",1
+E,Shoes,Beef - Salted,2021-12-15,"6087,71",7
+C,Toys,Pail With Metal Handle 16l White,2021-09-06,"9640,12",6
+C,Electronics,"Croissant, Raw - Mini",2021-09-16,"4269,88",10
+B,Grocery,Food Colouring - Red,2021-01-03,"8566,81",1
+D,Baby,Spic And Span All Purpose,2021-12-11,"4280,5",6
+A,Jewelry,Beans - Green,2021-10-09,"9011,67",8
+E,Music,"Pork - Back, Short Cut, Boneless",2021-07-27,"6408,52",8
+A,Baby,Garlic - Peeled,2021-05-11,"1030,38",7
+B,Automotive,Bacardi Raspberry,2021-02-04,"1272,28",7
+E,Music,"Cheese - Woolwich Goat, Log",2021-10-29,"6803,41",8
+C,Industrial,Marjoram - Fresh,2021-02-18,"7318,47",6
+B,Health,"Pasta - Lasagna Noodle, Frozen",2021-04-10,"2641,85",2
+D,Toys,Daves Island Stinger,2021-10-28,"1046,61",10
+B,Garden,Longan,2021-07-19,"8642,22",1
+D,Industrial,Steampan - Foil,2021-09-09,"2824,81",3
+E,Tools,Snails - Large Canned,2021-10-18,"976,55",8
+B,Music,Soupfoamcont12oz 112con,2021-11-26,"7512,15",6
+D,Shoes,"Trout - Rainbow, Frozen",2021-07-10,"1696,71",3
+D,Toys,Skewers - Bamboo,2021-11-18,"8920,39",1
+C,Electronics,"Wine - Red, Mouton Cadet",2021-11-15,"3509,34",4
+D,Music,Mussels - Frozen,2021-03-01,"6683,44",1
+D,Clothing,Spice - Paprika,2021-12-18,"7358,98",5
+A,Garden,"Syrup - Golden, Lyles",2021-07-18,"7381,91",5
+D,Outdoors,Veal - Provimi Inside,2021-01-28,"2538,12",8
+A,Tools,Squash - Acorn,2021-09-11,"5912,51",4
+D,Health,Bread Crumbs - Japanese Style,2021-09-08,"7610,39",1
+C,Beauty,Crackers - Melba Toast,2021-01-28,"5182,1",1
+A,Toys,The Pop Shoppe - Grape,2021-06-20,"6980,98",7
+C,Baby,Oysters - Smoked,2021-12-23,"972,16",6
+B,Automotive,Sansho Powder,2021-06-02,"5975,83",6
+A,Music,Shallots,2021-06-08,"2454,96",5
+B,Movies,Soho Lychee Liqueur,2021-03-22,"4014,39",1
+C,Baby,Cherries - Frozen,2021-12-28,"5738,61",4
+C,Tools,Eggwhite Frozen,2021-10-21,"580,84",10
+E,Garden,Turkey Tenderloin Frozen,2021-11-28,"7202,91",7
+A,Beauty,"Coconut - Shredded, Unsweet",2021-08-10,"8319,48",9
+A,Clothing,Vanilla Beans,2021-03-23,"4414,11",9
+E,Baby,Longos - Greek Salad,2021-04-29,"4532,69",9
+E,Health,Bar Nature Valley,2021-07-12,8919,7
+B,Music,"Bread - Roll, Calabrese",2021-05-02,"9709,99",4
+E,Automotive,"Zucchini - Mini, Green",2021-07-25,"4063,48",3
+C,Shoes,Bread - Pumpernickel,2021-03-21,"8579,73",2
+C,Movies,Chip - Potato Dill Pickle,2021-02-23,"6444,69",2
+A,Sports,Macaroons - Homestyle Two Bit,2021-06-22,"5455,87",9
+C,Books,"Seedlings - Buckwheat, Organic",2021-04-03,"7959,85",9
+E,Home,Sauce - Salsa,2021-07-18,"3434,94",4
+A,Sports,Pork - Ground,2021-08-25,"7503,14",10
+C,Health,Juice - Orangina,2021-04-03,"5298,66",8
+A,Kids,Lamb Rack - Ontario,2021-06-24,"6042,26",10
+D,Industrial,Truffle Paste,2021-09-15,"626,3",9
+B,Grocery,Pants Custom Dry Clean,2021-03-07,"1644,08",7
+E,Clothing,Beer - Sleemans Honey Brown,2021-11-03,"2837,55",3
+E,Beauty,Cheese - Cambozola,2021-09-16,"8181,11",2
+B,Games,Oil - Avocado,2021-07-09,"7213,94",3
+E,Garden,"Juice - Apple, 1.36l",2021-06-06,"9546,7",9
+E,Music,Wine - Casillero Del Diablo,2021-05-01,"4252,59",4
+B,Movies,Bread Base - Goodhearth,2021-10-13,"9138,42",9
+C,Industrial,Kellogs Raisan Bran Bars,2021-11-05,"3843,69",6
+A,Tools,Vodka - Moskovskaya,2021-09-10,"3605,66",8
+A,Garden,Venison - Racks Frenched,2021-01-22,"1215,89",5
+D,Clothing,Cake - Pancake,2021-01-08,"5984,25",8
+C,Beauty,Blueberries - Frozen,2021-12-04,"4586,29",3
+D,Industrial,Veal - Insides Provini,2021-05-15,"7277,95",8
+A,Jewelry,Bread - Italian Sesame Poly,2021-06-25,"3464,86",3
+C,Music,Pepperoni Slices,2021-09-18,"1031,67",10
+E,Shoes,Cheese - Oka,2021-12-08,"9657,55",8
+E,Sports,Pie Shell - 9,2021-10-17,"7949,89",10
+A,Tools,Wine - Sawmill Creek Autumn,2021-06-28,"2666,88",1
+D,Baby,Puree - Mango,2021-04-05,"7024,14",7
+D,Electronics,Mikes Hard Lemonade,2021-03-31,"1612,22",3
+D,Books,Shiratamako - Rice Flour,2021-12-21,"5042,23",9
+E,Automotive,"Brocolinni - Gaylan, Chinese",2021-07-09,"4315,28",5
+E,Grocery,"Beef - Roasted, Cooked",2021-01-08,"779,58",9
+B,Beauty,Chocolate Bar - Reese Pieces,2021-01-09,"3929,87",6
+D,Computers,Chinese Foods - Chicken Wing,2021-04-05,"4941,49",6
+E,Computers,Bread - Pita,2021-09-19,"7399,66",6
+B,Toys,Beets - Golden,2021-04-05,"7046,84",5
+A,Industrial,Container - Foam Dixie 12 Oz,2021-12-09,"2310,59",2
+C,Baby,"Coconut - Shredded, Sweet",2021-11-24,"255,07",4
+A,Clothing,Oneshot Automatic Soap System,2021-09-05,"3786,91",9
+E,Garden,Sauce - Hoisin,2021-02-12,"901,88",2
+C,Automotive,"Juice - Orange, Concentrate",2021-03-15,"5643,85",9
+C,Kids,Tamarind Paste,2021-01-09,"8939,03",1
+E,Kids,Cake - Mini Cheesecake,2021-08-07,"2789,99",2
+D,Automotive,Mousse - Passion Fruit,2021-05-18,"5866,9",3
+E,Outdoors,Wine - Niagara Peninsula Vqa,2021-02-19,"9918,35",4
+D,Computers,Browning Caramel Glace,2021-07-08,"6598,73",8
+C,Industrial,"Yogurt - Peach, 175 Gr",2021-06-10,"2609,72",10
+A,Baby,"Chilli Paste, Hot Sambal Oelek",2021-03-01,"8491,89",4
+B,Garden,Cheese - La Sauvagine,2021-09-07,"4017,21",2
+E,Toys,Beef - Top Butt Aaa,2021-05-06,"9321,42",3
+D,Jewelry,Appetizer - Smoked Salmon / Dill,2021-01-13,"3481,75",5
+A,Shoes,"Bread - Dark Rye, Loaf",2021-03-07,"2110,84",3
+A,Kids,Ginger - Pickled,2021-11-23,"97,53",5
+A,Grocery,Puree - Guava,2021-09-05,"241,12",10
+C,Electronics,Lime Cordial - Roses,2021-03-21,"543,95",6
+D,Games,Oil - Macadamia,2021-05-21,"3852,55",9
+A,Games,"Bread - Rolls, Corn",2021-10-04,"3188,85",10
+E,Electronics,Russian Prince,2021-02-20,"4930,21",6
+B,Games,Chocolate - Milk,2021-07-18,"3678,78",10
+D,Books,"Mushroom - Oyster, Fresh",2021-06-29,"4656,61",5
+A,Toys,Ecolab - Medallion,2021-04-12,"9375,31",3
+C,Movies,Parsnip,2021-05-27,"2316,92",7
+D,Automotive,Creme De Banane - Marie,2021-02-28,"3767,73",9
+A,Electronics,Fond - Neutral,2021-03-18,"3647,18",10
+E,Electronics,Glass - Juice Clear 5oz 55005,2021-09-28,"8569,84",2
+C,Shoes,"Trout - Rainbow, Fresh",2021-08-25,"4627,58",10
+A,Home,Compound - Rum,2021-02-06,"7738,43",7
+D,Automotive,"Lobster - Tail, 3 - 4 Oz",2021-08-15,"9055,39",1
+B,Grocery,Thyme - Fresh,2021-12-06,"9010,52",6
+E,Baby,Oil - Sunflower,2021-03-21,"3695,72",3
+D,Automotive,Coriander - Seed,2021-03-03,"9270,08",3
+E,Music,Compound - Raspberry,2021-12-02,"9801,83",2
+A,Sports,Creamers - 10%,2021-07-28,"3421,29",8
+D,Music,Blueberries - Frozen,2021-07-12,"7944,56",3
+B,Music,Heavy Duty Dust Pan,2021-03-23,"6356,57",10
+D,Grocery,"Rum - Cream, Amarula",2021-01-29,"158,01",5
+D,Grocery,Clam Nectar,2021-11-21,"2047,62",4
+B,Beauty,Cheese - St. Paulin,2021-07-13,"2666,86",1
+C,Shoes,Beef - Inside Round,2021-08-25,"6444,32",4
+D,Movies,Table Cloth 62x114 Colour,2021-10-21,"4004,52",5
+C,Toys,Mints - Striped Red,2021-12-16,"6432,35",4
+D,Garden,Energy Drink Red Bull,2021-05-22,"787,99",3
+D,Sports,Lettuce - Boston Bib - Organic,2021-10-20,"9914,62",6
+C,Shoes,Lobak,2021-12-19,"8694,91",9
+E,Beauty,Cabbage - Nappa,2021-12-02,"4353,22",9
+A,Books,Lettuce - Spring Mix,2021-03-13,"4596,62",4
+C,Electronics,Pork Ham Prager,2021-10-20,"6170,22",10
+B,Clothing,Lychee - Canned,2021-04-24,"3478,3",2
+A,Industrial,Tomato Puree,2021-01-12,"4882,3",6
+C,Toys,Carbonated Water - Blackberry,2021-04-30,"9865,79",6
+E,Games,Wine - Merlot Vina Carmen,2021-07-30,"8722,94",8
+D,Sports,Tea - Black Currant,2021-02-21,"9210,28",10
+A,Jewelry,Browning Caramel Glace,2021-03-06,"8494,21",5
+C,Games,Vinegar - White,2021-11-16,"8455,78",7
+C,Music,Catfish - Fillets,2021-10-04,"7478,28",3
+C,Games,Lambcasing,2021-05-26,"7868,49",5
+C,Toys,Oranges,2021-09-04,"7553,25",10
+A,Sports,Shichimi Togarashi Peppeers,2021-12-29,"4217,01",3
+C,Industrial,Roe - Flying Fish,2021-09-18,"9840,71",10
+D,Health,"Pasta - Penne, Lisce, Dry",2021-04-22,"3071,23",9
+C,Home,Squid Ink,2021-10-27,"4477,89",2
+D,Movies,Lotus Leaves,2021-04-28,"7309,26",10
+B,Health,Campari,2021-12-16,"3006,13",4
+C,Clothing,Pate - Peppercorn,2021-11-11,"5041,36",4
+E,Books,"Flour - Buckwheat, Dark",2021-05-22,"3648,97",2
+A,Computers,Bacardi Breezer - Strawberry,2021-03-09,"5807,5",3
+A,Shoes,Wine - Zinfandel California 2002,2021-06-15,"5677,9",2
+D,Garden,Pizza Pizza Dough,2021-06-06,"3957,15",4
+D,Outdoors,Beer - Paulaner Hefeweisse,2021-12-23,"593,99",5
+D,Shoes,Chicken - Bones,2021-09-18,"5973,71",7
+B,Books,"Pork - Tenderloin, Frozen",2021-11-15,"9287,39",4
+A,Baby,Dooleys Toffee,2021-08-07,"7163,76",4
+A,Music,Cocoa Butter,2021-07-06,"6493,13",2
+D,Garden,Pork - Backfat,2021-06-16,"4814,11",10
+A,Garden,"Artichoke - Hearts, Canned",2021-09-17,"7761,45",6
+A,Movies,Emulsifier,2021-01-17,"1034,9",6
+C,Outdoors,Foam Dinner Plate,2021-01-18,"6679,99",1
+C,Garden,Chicken Thigh - Bone Out,2021-12-24,"8657,04",2
+D,Music,Soup Campbells - Italian Wedding,2021-04-23,"4270,19",9
+D,Home,Worcestershire Sauce,2021-05-31,"6060,56",7
+A,Computers,French Pastries,2021-05-16,"3295,74",1
+D,Grocery,Beef - Prime Rib Aaa,2021-03-09,"9485,5",9
+E,Jewelry,Potato - Sweet,2021-03-01,"5501,59",9
+D,Grocery,Pork Loin Cutlets,2021-01-07,"4855,94",9
+C,Industrial,Pepper - Roasted Red,2021-09-01,"3878,75",5
+E,Kids,Duck - Fat,2021-03-24,"9776,68",2
+A,Health,"Juice - Tomato, 10 Oz",2021-01-08,"5583,17",6
+E,Garden,Chocolate - Semi Sweet,2021-03-18,"6377,37",10
+E,Shoes,Yoplait Drink,2021-12-17,"224,1",4
+C,Baby,Sage - Ground,2021-11-05,"8899,31",8
+A,Outdoors,Beets - Mini Golden,2021-04-11,"6002,39",5
+D,Tools,Pickerel - Fillets,2021-09-28,"8890,12",5
+D,Music,Lettuce - California Mix,2021-07-19,"258,5",5
+D,Beauty,"Cheese - Cheddar, Old White",2021-01-19,"6197,72",2
+A,Kids,Wine - Magnotta - Cab Franc,2021-11-21,"5663,48",2
+A,Industrial,Beef - Striploin Aa,2021-03-25,"8970,59",10
+C,Books,Lettuce - Boston Bib,2021-11-17,"8963,61",6
+E,Music,Wine - Gato Negro Cabernet,2021-06-17,"108,6",6
+C,Outdoors,Pheasants - Whole,2021-10-25,"6274,96",4
+E,Computers,Ginger - Crystalized,2021-11-26,"2783,71",2
+D,Outdoors,Kellogs Raisan Bran Bars,2021-09-16,"9094,23",3
+D,Sports,Lamb - Ground,2021-09-30,"2860,29",4
+E,Garden,Soup - Campbells Chicken,2021-09-10,"7103,29",2
+A,Clothing,Fish - Bones,2021-05-08,"5394,52",5
+E,Music,Yogurt - French Vanilla,2021-08-01,"2122,4",3
+D,Electronics,Cheese - Mozzarella,2021-11-11,"7682,87",2
+A,Automotive,Mini - Vol Au Vents,2021-01-20,"9632,19",1
+B,Electronics,Clam Nectar,2021-01-25,"647,62",9
+C,Games,Chicken - Tenderloin,2021-01-27,"1587,9",8
+C,Jewelry,Sauce - Ranch Dressing,2021-07-08,"1403,07",4
+C,Home,Rum - Mount Gay Eclipes,2021-10-03,"1602,54",9
+C,Toys,Wine - Piper Heidsieck Brut,2021-01-25,"6744,96",7
+A,Sports,Lettuce - Belgian Endive,2021-01-27,"7917,65",2
+D,Tools,Arrowroot,2021-03-23,"439,07",4
+D,Games,"Shrimp - 16/20, Peeled Deviened",2021-09-05,"1152,39",6
+C,Games,Longos - Cheese Tortellini,2021-07-20,"5177,08",9
+A,Shoes,Beef - Short Ribs,2021-09-01,"8987,86",4
+A,Movies,Tobasco Sauce,2021-01-03,"5791,63",3
+D,Beauty,Catfish - Fillets,2021-05-14,"2152,21",3
+B,Games,Appetizer - Veg Assortment,2021-10-03,"1631,51",6
+D,Outdoors,Beef - Rib Eye Aaa,2021-08-24,"8999,74",9
+D,Movies,Oneshot Automatic Soap System,2021-04-12,"3947,61",5
+D,Garden,Chocolate Bar - Coffee Crisp,2021-03-19,"32,04",10
+C,Jewelry,"Ranchero - Primerba, Paste",2021-06-16,"4252,49",3
+D,Clothing,"Beer - Alexander Kieths, Pale Ale",2021-10-15,"5500,57",10
+D,Electronics,Bread - Granary Small Pull,2021-08-22,"2571,14",8
+E,Grocery,Napkin - Beverage 1 Ply,2021-08-17,"9072,27",3
+C,Games,Pastry - Apple Muffins - Mini,2021-04-18,"1005,04",6
+C,Clothing,Cake - Dulce De Leche,2021-10-19,"9847,27",9
+A,Games,Longos - Lasagna Veg,2021-07-02,"511,65",3
+A,Industrial,Beef - Ox Tongue,2021-08-15,7083,4
+C,Garden,Coffee Cup 16oz Foam,2021-03-25,"5352,21",1
+B,Outdoors,Cake - Sheet Strawberry,2021-01-18,"6741,26",10
+A,Garden,Soup - Campbells Beef Stew,2021-04-23,"4793,3",2
+B,Health,"Chocolate - Pistoles, White",2021-01-31,"2071,49",8
+A,Beauty,Chocolate - Mi - Amere Semi,2021-06-26,"1301,69",4
+B,Toys,Egg - Salad Premix,2021-05-12,"3731,78",8
+B,Tools,Bread - Pain Au Liat X12,2021-03-08,"9092,77",1
+A,Baby,Jack Daniels,2021-08-12,"8216,43",5
+D,Toys,"Shrimp - 21/25, Peel And Deviened",2021-03-01,"9648,29",1
+D,Music,Chick Peas - Canned,2021-07-09,"670,47",4
+A,Jewelry,Wine - Spumante Bambino White,2021-04-30,"3172,17",8
+A,Games,Cookie Dough - Chocolate Chip,2021-11-18,"6942,64",7
+D,Computers,"Lettuce - Mini Greens, Whole",2021-06-10,"2903,1",9
+C,Industrial,Wine - Cave Springs Dry Riesling,2021-04-07,"3392,99",10
+E,Computers,"Carrots - Purple, Organic",2021-06-13,"6230,88",10
+D,Outdoors,Wine - Crozes Hermitage E.,2021-03-30,"8670,89",4
+D,Clothing,Pears - Anjou,2021-04-20,"6378,99",10
+D,Beauty,Cookie - Oatmeal,2021-02-07,"7891,47",1
+A,Computers,Bread - Malt,2021-09-10,"9355,62",3
+B,Home,"Pepper - White, Whole",2021-12-02,"9967,68",8
+D,Clothing,Beets - Mini Golden,2021-09-14,"9080,82",10
+E,Clothing,Coconut - Whole,2021-10-13,"5936,11",4
+C,Sports,Tea - Black Currant,2021-06-18,"7073,17",8
+C,Grocery,Salt And Pepper Mix - White,2021-04-16,"5433,04",7
+E,Shoes,"Melon - Watermelon, Seedless",2021-12-20,"3380,9",7
+C,Garden,Dehydrated Kelp Kombo,2021-12-22,"8221,36",1
+E,Health,Fruit Mix - Light,2021-03-13,"1884,45",7
+D,Home,Beer - Camerons Auburn,2021-05-08,"7756,11",9
+D,Books,"Salmon - Atlantic, Skin On",2021-07-30,"358,36",3
+C,Sports,"Artichokes - Knobless, White",2021-01-11,"3981,64",1
+C,Health,Tamarillo,2021-06-15,"433,22",1
+E,Grocery,Silicone Paper 16.5x24,2021-11-24,"6755,72",8
+A,Music,Cake Slab,2021-11-14,"6019,52",9
+B,Music,"Beans - Kidney, Canned",2021-08-21,"6347,52",3
+B,Toys,"Soup - Campbells, Butternut",2021-04-27,"7241,91",7
+E,Kids,Chocolate - Milk Coating,2021-09-17,"3957,44",3
+E,Clothing,Soy Protein,2021-08-14,"6334,71",8
+A,Games,Wine - Merlot Vina Carmen,2021-11-21,"2155,04",3
+C,Outdoors,Puree - Raspberry,2021-08-01,"1429,96",8
+E,Computers,Juice Peach Nectar,2021-01-24,"4191,38",2
+A,Garden,Cranberries - Fresh,2021-06-15,"4084,1",6
+C,Clothing,"Cake Circle, Foil, Scallop",2021-07-05,"6338,76",8
+B,Toys,Beef - Sushi Flat Iron Steak,2021-10-05,"6654,73",7
+B,Industrial,Crackers - Trio,2021-02-03,"4498,43",10
+C,Movies,Wine - Beringer Founders Estate,2021-11-12,"8903,9",3
+E,Toys,Food Colouring - Blue,2021-06-06,"5669,7",10
+B,Jewelry,Yokaline,2021-02-16,"768,61",7
+D,Jewelry,Curry Powder,2021-06-12,"4474,8",7
+E,Home,Table Cloth 91x91 Colour,2021-08-11,"3245,34",10
+A,Computers,Ginger - Fresh,2021-06-10,"6370,88",4
+D,Movies,Sour Cream,2021-11-20,6650,1
+E,Outdoors,Pastry - Lemon Danish - Mini,2021-04-29,"3151,88",4
+B,Electronics,Lettuce - Boston Bib - Organic,2021-12-28,"5235,9",10
+A,Clothing,Pears - Fiorelle,2021-10-30,"6843,01",2
+A,Beauty,"Jam - Marmalade, Orange",2021-01-18,"1945,75",3
+A,Tools,Pasta - Fusili Tri - Coloured,2021-07-11,"4784,12",8
+E,Outdoors,"Soup - Clam Chowder, Dry Mix",2021-01-05,"9403,26",7
+B,Automotive,"Rum - White, Gg White",2021-03-15,"5336,85",9
+A,Shoes,Bread Foccacia Whole,2021-05-19,"7959,19",4
+C,Garden,Wasabi Powder,2021-09-19,"9499,11",5
+A,Beauty,"Sugar - Sweet N Low, Individual",2021-02-20,"1566,17",2
+B,Sports,Sauce - Salsa,2021-06-08,"7364,32",2
+D,Home,Beef - Salted,2021-04-20,"4103,95",7
+B,Grocery,Oil - Pumpkinseed,2021-11-02,"5781,59",4
+D,Beauty,Mudslide,2021-05-05,"7522,01",10
+E,Home,"Soup - Beef, Base Mix",2021-03-08,"7721,39",1
+A,Books,Mince Meat - Filling,2021-08-16,"8389,82",7
+D,Computers,Onions - Red,2021-08-05,"2245,65",8
+D,Industrial,Sherbet - Raspberry,2021-01-28,"6778,12",2
+B,Games,Ice Cream - Fudge Bars,2021-03-25,"9473,45",7
+C,Tools,Bagel - Sesame Seed Presliced,2021-03-28,"9743,18",2
+E,Health,Bread - Hot Dog Buns,2021-11-03,"9563,09",2
+E,Baby,Pear - Halves,2021-11-06,"5196,37",6
+B,Electronics,Plate Foam Laminated 9in Blk,2021-03-05,"5584,66",8
+A,Computers,"Turkey - Whole, Fresh",2021-10-14,"4469,72",2
+C,Health,Cheese - Marble,2021-09-03,"4652,11",5
+C,Jewelry,Jicama,2021-07-19,"5470,15",2
+E,Tools,"Pork - Loin, Bone - In",2021-01-17,"6779,38",6
+D,Games,Miso - Soy Bean Paste,2021-04-17,"6568,02",1
+B,Clothing,Kippers - Smoked,2021-12-26,"2311,66",8
+B,Tools,Pepper - Scotch Bonnet,2021-10-08,"9152,45",2
+A,Baby,Pork - Smoked Back Bacon,2021-10-24,"9762,67",6
+A,Beauty,Vaccum Bag - 14x20,2021-09-07,"9202,74",10
+E,Kids,Chips - Doritos,2021-07-03,"1847,29",2
+A,Grocery,Clementine,2021-12-26,"810,13",2
+E,Baby,Lumpfish Black,2021-10-10,"4902,29",2
+E,Sports,"Salmon - Atlantic, Fresh, Whole",2021-06-18,"34,17",10
+B,Tools,Fish - Bones,2021-01-29,"8534,81",8
+A,Health,Beef Tenderloin Aaa,2021-05-16,"9367,94",6
+A,Jewelry,Cinnamon - Stick,2021-05-12,"5416,49",10
+A,Beauty,Veal - Sweetbread,2021-12-21,"707,15",1
+C,Automotive,Hersey Shakes,2021-08-21,"315,65",2
+B,Tools,Sprouts - Corn,2021-09-22,"7693,96",9
+B,Outdoors,Huck White Towels,2021-01-12,"7019,91",1
+A,Clothing,Wine - Beaujolais Villages,2021-08-09,"2903,36",6
+E,Industrial,Fondant - Icing,2021-12-30,"1415,41",5
+A,Music,Icecream - Dstk Cml And Fdg,2021-03-04,"4878,91",10
+C,Outdoors,Coffee - Cafe Moreno,2021-02-22,"5789,76",7
+B,Home,Beef Flat Iron Steak,2021-02-01,"2921,64",7
+B,Baby,Daikon Radish,2021-03-10,"2692,74",4
+E,Clothing,Rice Paper,2021-12-08,"3251,82",7
+B,Toys,Veal - Inside,2021-05-30,"1169,4",6
+E,Automotive,"Soup - Campbells, Chix Gumbo",2021-12-14,"727,96",2
+D,Movies,Sauce - Cranberry,2021-04-04,"5554,53",3
+D,Games,Cup Translucent 9 Oz,2021-07-25,"7955,03",4
+B,Movies,Gatorade - Orange,2021-08-29,"2812,94",4
+C,Sports,Sauce - Chili,2021-04-19,"4387,15",4
+D,Garden,"Asparagus - White, Canned",2021-09-04,"6178,65",9
+B,Jewelry,"Soup - Campbells, Cream Of",2021-11-21,"8144,44",1
+E,Sports,Shrimp - Tiger 21/25,2021-02-04,"5126,44",6
+D,Health,Bread Bowl Plain,2021-11-09,"4503,47",7
+B,Games,Pastrami,2021-05-16,"5984,84",4
+E,Computers,Tilapia - Fillets,2021-05-08,"2355,33",9
+C,Garden,Gatorade - Orange,2021-08-19,"5657,66",6
+B,Music,"Coconut - Creamed, Pure",2021-05-16,"1502,53",2
+E,Computers,Tea Leaves - Oolong,2021-08-19,"8198,62",6
+D,Garden,Pork - Back Ribs,2021-09-18,"4244,86",9
+A,Beauty,Puree - Passion Fruit,2021-01-04,"3321,34",10
+A,Computers,"Lamb - Whole, Frozen",2021-12-01,"8727,72",5
+C,Music,Cup - 8oz Coffee Perforated,2021-08-30,"9784,62",2
+E,Jewelry,Rum - Mount Gay Eclipes,2021-03-18,"2341,45",10
+C,Jewelry,Oil - Grapeseed Oil,2021-04-24,"7420,22",4
+E,Outdoors,Oil - Coconut,2021-01-31,"1583,37",9
+D,Jewelry,"Loaf Pan - 2 Lb, Foil",2021-04-10,"3862,34",10
+D,Electronics,Water Chestnut - Canned,2021-08-12,"9020,42",5
+D,Home,Carbonated Water - Peach,2021-10-16,"8499,77",7
+A,Kids,Soap - Mr.clean Floor Soap,2021-02-11,"5847,52",5
+C,Health,Ginger - Ground,2021-01-26,"4215,15",7
+E,Shoes,Ginsing - Fresh,2021-10-26,"6919,33",1
+E,Health,Steampan - Lid For Half Size,2021-12-20,"1035,12",2
+C,Industrial,Nantucket Pine Orangebanana,2021-01-22,"323,69",3
+E,Beauty,Wine - Chardonnay South,2021-12-10,"6494,09",3
+B,Industrial,Pea - Snow,2021-03-24,"6777,97",3
+A,Grocery,Muffin Mix - Carrot,2021-03-30,"4206,02",6
+C,Toys,Cakes Assorted,2021-09-06,"4063,62",4
+E,Toys,"Schnappes - Peach, Walkers",2021-09-24,"6752,98",8
+D,Industrial,"Juice - Clam, 46 Oz",2021-06-24,"4481,35",3
+C,Tools,Brandy Cherry - Mcguinness,2021-01-19,"2239,7",1
+B,Tools,Flour - Masa De Harina Mexican,2021-12-13,"5553,79",8
+E,Games,"Bread - Roll, Calabrese",2021-08-07,"5718,44",3
+D,Garden,Sour Puss Raspberry,2021-07-06,"8948,58",10
+B,Garden,Wine - Shiraz South Eastern,2021-04-15,"2537,28",8
+E,Electronics,Yeast Dry - Fermipan,2021-12-12,"9040,69",8
+D,Grocery,Greens Mustard,2021-10-27,"9873,41",6
+B,Jewelry,Pop - Club Soda Can,2021-03-31,"1778,94",8
+D,Shoes,Langers - Cranberry Cocktail,2021-01-13,"8591,39",2
+D,Sports,Napkin - Beverage 1 Ply,2021-09-04,"592,37",5
+B,Jewelry,Ecolab - Lime - A - Way 4/4 L,2021-04-01,"8178,12",3
+C,Games,Pork Ham Prager,2021-02-27,"193,33",6
+A,Sports,Shrimp - Black Tiger 26/30,2021-08-10,"9859,73",9
+A,Kids,"Dill - Primerba, Paste",2021-02-22,"2427,09",3
+E,Garden,Devonshire Cream,2021-11-11,"7958,81",9
+A,Health,Lamb - Ground,2021-12-03,"7102,83",3
+E,Home,The Pop Shoppe - Cream Soda,2021-12-26,"3590,93",10
+B,Toys,Stainless Steel Cleaner Vision,2021-10-22,"5537,71",4
+B,Books,Sauce - Hoisin,2021-08-17,"2538,95",3
+D,Home,Glass Clear 7 Oz Xl,2021-03-27,"2182,46",5
+B,Health,"Nut - Almond, Blanched, Ground",2021-01-14,"7578,94",7
+E,Computers,"Lettuce - Mini Greens, Whole",2021-11-19,"317,77",7
+B,Kids,Gherkin - Sour,2021-06-09,"2567,63",8
+A,Music,Fiddlehead - Frozen,2021-07-08,"5870,08",9
+D,Clothing,Bread - Flat Bread,2021-05-14,"5265,39",6
+E,Music,Tomato Puree,2021-03-07,"1994,86",8
+A,Clothing,Huck White Towels,2021-10-14,"9920,05",10
+E,Kids,Sugar - Brown,2021-09-08,"2102,43",5
+D,Baby,"Lemonade - Black Cherry, 591 Ml",2021-05-07,"7219,95",3
+C,Sports,"Yogurt - Raspberry, 175 Gr",2021-09-17,"1818,94",2
+D,Clothing,Danishes - Mini Cheese,2021-08-24,"5745,59",2
+C,Games,Cake - Bande Of Fruit,2021-05-10,"8661,29",7
+A,Music,"Leeks - Baby, White",2021-04-18,"4129,56",8
