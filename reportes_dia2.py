@@ -32,7 +32,12 @@ promedio_ventas = ventas_df['Cantidad'].mean()
 num_productos = ventas_df['Producto'].nunique()
 
 #numero de secciones
-num_secciones = ventas_df['Seccion'].munique()
+num_secciones = ventas_df['Seccion'].nunique()
+
+col1, col2, col3 = st.columns(3)
+col1.metric("Promedio Ventas", promedio_ventas, "$us.")
+col2.metric("Num. Productos ", num_productos)
+col3.metric("Secciones", num_secciones)
 
 
 # lista de productos unicos
