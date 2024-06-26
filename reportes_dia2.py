@@ -110,20 +110,43 @@ st.write(ventas_df)
 cantidad_max = ventas_df['Cantidad'].max() 
 cantidad_min = ventas_df['Cantidad'].min()
 
-rango_cantidad = st.slider("Seleccione Rango", cantidad_min, cantidad_max)
+rango_cantidad = st.slider("Seleccione Rango", 
+                           cantidad_min, 
+                           cantidad_max,
+(cantidad_min, cantidad_max))
 st.write("cantidad", rango_cantidad)
 
 
 # rango de fecha
 rango_fecha = ventas_df['Fecha'].max() - ventas_df['Fecha'].min()
 
+#
+r_fecha_max = ventas_df['Fecha'].max().date()
+r_fecha_min = ventas_df['Fecha'].min().date()
+
+rango_fechas = st.slider("Seleccione rango",
+                         r_fecha_max,
+                         r_fecha_min,
+                         (r_fecha_max, r_fecha_max))
+st.write("fechas ", rango_fechas)
 
 # total ventas por mes
 total_ventas_mes = ventas_df.groupby('Mes_texto')['Cantidad'].sum()
 st.write(total_ventas_mes)
 
+df_total_ventas_mes = pd.DataFrame(total_ventas_mes).reset_index()
+
+st.write(df_total_ventas_mes.columns)
+
+st.bar_chart(total_ventas_mes, x='Mes_texto', y= 'Cantidad')
+
+
+
+
 # total ventas por producto y mes
 total_ventas_producto_mes = ventas_df.groupby(['Producto', 'Mes_texto'])['Cantidad'].sum()
 
 st.write(total_ventas_producto_mes)
+
+
 
