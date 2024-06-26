@@ -5,7 +5,7 @@ import numpy as np
 st.title('Reportes')
 
 # cargar datos desde un csv
-ventas_df = pd.read_csv('datos/Ventas_minoristas.csv')
+ventas_df = pd.read_csv('Ventas_minoristas.csv')
 # ventas_df
 
 st.write(ventas_df.describe())
@@ -44,15 +44,37 @@ col3.metric("", num_secciones, "Secciones")
 productos = ventas_df['Producto'].unique()
 st.write(productos)
 
+#
+options = st.multiselect(
+    "Seleccione uno o más productos",
+    productos,
+    )
+st.write("You selected:", options)
+
 
 # lista de secciones unicas
 secciones = ventas_df['Seccion'].unique()
 st.write(secciones)
 
+#
+option = st.selectbox(
+   "Seleccione una seccion",
+    secciones,)
+st.write("You selected:", option)
+
+
+
 # lista de marca_id unicas
 marca_id = ventas_df['Marca_ID'].unique()
 st.write(marca_id)
 
+#s
+genre = st.radio(
+    "Seleccione una marca",
+    marca_id,
+    index=None,
+)
+st.write("You selected:", genre)
 
 # promedio de ventas
 promedio_ventas = ventas_df['Cantidad'].mean()
@@ -85,7 +107,12 @@ st.write(ventas_df)
 
 
 # rango de cantidad
-rango_cantidad = ventas_df['Cantidad'].max() - ventas_df['Cantidad'].min()
+cantidad_max = ventas_df['Cantidad'].max() 
+cantidad_min = ventas_df['Cantidad'].min()
+
+rango_cantidad = st.slider("Seleccione Rango", cantidad_min, cantidad_max)
+st.write("cantidad", rango_cantidad)
+
 
 # rango de fecha
 rango_fecha = ventas_df['Fecha'].max() - ventas_df['Fecha'].min()
